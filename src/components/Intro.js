@@ -28,20 +28,20 @@ class Intro extends React.Component {
         <FractalTree></FractalTree>
         <Typist avgTypingDelay={120}>
           <span className="intro-title">
-            {"hi, "}
-            <span className="intro-name">{"gazi"}</span>
+            {"heyyy, "}
+            <span className="intro-name">{"areej"}</span>
             {" here."}
           </span>
         </Typist>
         <FadeInSection>
-          <div className="intro-subtitle">I create stuff sometimes.</div>
+          <div className="intro-subtitle">I love love love coding.</div>
           <div className="intro-desc">
-            I'm a software engineer from Toronto, Canada. I'm fascinated by
+            I'm an aspiring software engineer from Missoula, Montana. I'm fascinated by
             large-scale, high-impact products and contributed to major feature launches in
-            industry-leading services as well as apps that have 100M+ installs.
+            industry-leading services as well as apps that have 100M+ installs..
           </div>
           <a
-            href="mailto:gazijarin@gmail.com"
+            href="mailto:areejmirani18@gmail.com"
             className="intro-contact"
           >
             <EmailRoundedIcon></EmailRoundedIcon>

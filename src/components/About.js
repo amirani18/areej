@@ -19,17 +19,18 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
-        I am currently a <b>Software Development Engineer</b> at
-        <a href="https://www.aboutamazon.com/"> Amazon</a>, working in the AWS
-        sector under team Route 53. At the same time, I am undertaking a
-        part-time <b> Master's of Science</b> in <b>Software Engineering </b>at{" "}
-        <a href="https://www.ox.ac.uk/about">University of Oxford</a>.
+       I am currently a <b>Data Scientist Intern</b> at
+       <a href="https://www.nexteraenergy.com/"> Nextera Energy</a>, working in the IT
+       sector under the Nuclear Data Science Team. At the same time, I am undertaking a
+       full-time <b> Bachelor's of Science</b> in <b>Computer Engineering </b> at 
+       <a href="https://www.purdue.edu"> Purdue University</a>.
       </p>
     );
     const two = (
       <p>
-        Outside of work, I'm interested in following the developments of
-        science. I also play a lot of video games. And make TikToks.
+       Outside of work, I'm interested in following the developments of
+       science and engineering. I also love working out, being outdoors, and competing
+       for steps with my friends in StepUp. And make TikToks.
       </p>
     );
 
@@ -38,8 +39,8 @@ class About extends React.Component {
       "Python",
       "React.js",
       "Java",
-      "Javascript ES6+",
-      "C#"
+      "Nestjs",
+      "C"
     ];
 
     return (
@@ -64,7 +65,7 @@ class About extends React.Component {
               {[two]}
             </div>
             <div className="about-image">
-              <img alt="Gazi Jarin" src={"/assets/me2.jpg"} />
+              <img alt="Areej Mirani" src={"/assets/areej.jpg"} />
             </div>
           </div>
         </FadeInSection>

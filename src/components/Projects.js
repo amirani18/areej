@@ -22,33 +22,33 @@ class Projects extends React.Component {
   }
   render() {
     const spotlightProjects = {
-      "No Man's Land": {
-        title: "no man's land",
+      "Instagram Hype Bot": {
+        title: "instagram hype bot",
         desc:
-          "A third-person survival-mode game where you battle against time and space to return to Earth.",
-        techStack: "C# (UNITY)",
-        link: "https://github.com/slakh96/no-mans-land",
-        open: "https://gazijarin.itch.io/no-mans-land",
-        image: "/assets/nomansland.png"
+          "A fun little tool that automates user interactions with their account.",
+        techStack: "PYTHON",
+        link: "https://github.com/amirani18/insta_hype_bot",
+        open: "https://github.com/amirani18/insta_hype_bot",
+        image: "/assets/insta_hype_bot.png"
       },
-      Truth: {
-        title: "truth",
+      Acumentor: {
+        title: "acumentor",
         desc:
-          "A three.js simulation of the planet system revolving around a monolith.",
-        techStack: "JAVASCRIPT (THREE.JS)",
-        link: "https://github.com/gazijarin/truth",
-        open: "https://gazijarin.github.io/Truth/",
-        image: "/assets/truth.png"
+          "A streamline quiz creation tool that utilizes AI to automate learning enhancement with efficiency and effortless adaptability.",
+        techStack: "JAVASCRIPT, REACT, NEXTJS",
+        link: "https://github.com/ts549/Catapult",
+        open: "https://github.com/ts549/Catapult",
+        image: "/assets/acumentor.png"
       },
-      "Tall Tales": {
-        title: "tall tales",
+      "Grad Move": {
+        title: "gradmove",
         desc:
-          "A multi-player story-telling web game for 3-5 players. Its usage of sockets to allow for concurrent gameplay, connecting friends across the internet.",
-        techStack: "NODE.JS (SOCKET.IO), REACT.JS, MONGODB",
-        link: "https://github.com/gazijarin/TallTales",
-        open: "https://talltales.herokuapp.com/",
-        image: "/assets/talltales.png"
-      },
+          "Your go-to app for finding housing near your dream job, curated based on tastes in housing, price, transport, and access to healthcare.",
+        techStack: "JUPYTER NOTEBOOK, PYTHON, STREAMLIT",
+        link: "https://github.com/amirani18/GradMove",
+        open: "https://github.com/amirani18/GradMove",
+        image: "/assets/gradmove.png"
+      }, 
       Portfolio: {
         title: "portfolio.js",
         desc:
