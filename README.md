@@ -1,7 +1,7 @@
 # areej
 my first personal website
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
+  <img src="![butterflies](https://github.com/amirani18/areej/assets/112004077/bcfb6b02-f2c9-4e6f-8cb3-4fa8f6cf493b)"/>
 </p>
 <h1 align="center">
   areejmirani.com - v1
@@ -10,7 +10,7 @@ my first personal website
   The first iteration of <a href="https://areejmirani.com" target="_blank">areejmirani.com</a> built with React.js leveraging Material UI.
 </p>
 
-<img width="1306" alt="Screen Shot 2024-06-19 at 10 10 18 PM" src="https://user-images.githubusercontent.com/32211479/111238274-24f8b100-85cd-11eb-9d5a-00f07cbc05e9.png">
+<img width="1344" alt="Screenshot 2024-06-19 at 10 13 27 PM" src="https://github.com/amirani18/areej/assets/112004077/64256fab-362b-4ca5-abb0-557a1f236a7e">
 
 ## 🛠 set-up
 
