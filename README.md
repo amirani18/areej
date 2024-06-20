@@ -1,10 +1,10 @@
 # areej
 my first personal website
 <p align="center">
-  <img src="![butterflies](https://github.com/amirani18/areej/assets/112004077/bcfb6b02-f2c9-4e6f-8cb3-4fa8f6cf493b)"/>
+  <img width="100" src="https://github.com/amirani18/areej/assets/112004077/fbb288f3-5355-4255-a0a2-96fa25a21caa"
 </p>
 <h1 align="center">
-  areejmirani.com - v1
+  areejmirani.com - v1 
 </h1>
 <p align="center">
   The first iteration of <a href="https://areejmirani.com" target="_blank">areejmirani.com</a> built with React.js leveraging Material UI.
