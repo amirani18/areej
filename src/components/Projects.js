@@ -48,60 +48,60 @@ class Projects extends React.Component {
         link: "https://github.com/amirani18/GradMove",
         open: "https://github.com/amirani18/GradMove",
         image: "/assets/gradmove.png"
-      }, 
-      Portfolio: {
-        title: "portfolio.js",
-        desc:
-          "A small JS library that helps with clear and succinct data presentation.",
-        techStack: "NODE.JS (EXPRESS.JS)",
-        link: "https://github.com/gazijarin/Portfolio.js",
-        open: "https://afternoon-ocean-92382.herokuapp.com/",
-        image: "/assets/portfolio.png"
       }
+      // Portfolio: {
+      //   title: "portfolio.js",
+      //   desc:
+      //     "A small JS library that helps with clear and succinct data presentation.",
+      //   techStack: "NODE.JS (EXPRESS.JS)",
+      //   link: "https://github.com/gazijarin/Portfolio.js",
+      //   open: "https://afternoon-ocean-92382.herokuapp.com/",
+      //   image: "/assets/portfolio.png"
+      // }
     };
     const projects = {
-      "TDSB Homework Management Interface": {
+      "Purdue Muslim Student Association": {
         desc:
-          "An application created for Toronto District School Board, with a Flask back-end and a Vue front-end.",
-        techStack: "Python (Flask), Vue.js, Bootstrap, SQL",
-        link: "https://github.com/gazijarin/TDSBHomeworkManagement",
-        open: "https://tdsb-app.herokuapp.com/"
+          "Developed social media content for the school year utilizing technologies such as Canva, Instagram, and GroupMe",
+        techStack: "Featured Posts Aug 2023 - May 2024",
+        // link: "https://github.com/gazijarin/TDSBHomeworkManagement",
+        open: "https://purduemsa.com/"
       },
-      "Adam A.I.": {
+      "Purdue South West Asian North African Student Union": {
         desc:
-          "A self-learning A.I. that learns to traverse through a complex maze using the genetic algorithm.",
-        techStack: "Javascript, HTML / CSS",
-        link: "https://github.com/gazijarin/adamai",
-        open: "https://gazijarin.github.io/AdamAI/"
+          "Developed social media content for the Fall 2024 semester leveraging technologies such as Canva, Instagram, FinalCut Pro, and Whatsapp.",
+        techStack: "Featured Posts Aug 2024 - Dec 2024",
+        // link: "https://github.com/gazijarin/adamai",
+        open: "https://www.instagram.com/purdueswana/"
       },
-      "Distributed Logging and Monitoring System": {
+      "Purdue Nasha": {
         desc:
-          "A system that establishes an ORM connection to a Prisma client in order to communicate logs from microservices.",
-        techStack: "Node.js (Express.js), React.js, PostgreSQL",
-        link:
-          "https://github.com/gazijarin/Distributed-Logging-and-Monitoring-System"
-      },
-      "Odin Bot": {
-        desc:
-          "A Telegram bot that helps you excel on your daily tasks through Node NLP.",
-        techStack: "Javascript, Node.js, Natural NLP, Telegram API",
-        link: "https://github.com/gazijarin/OdinBot",
-        open: ""
-      },
-      "Game Centre": {
-        desc:
-          "An Android app consisting of three board games, including multiplayer, autosave, user authentication, etc.",
-        techStack: "Java, Android Studio",
-        link: "https://github.com/gazijarin/gamecentre",
-        open: ""
-      },
-      "Minimax Stonehenge": {
-        desc:
-          "Two-player, zero-sum game with a strategic Minimax artificial intelligence.",
-        techStack: "Python",
-        link: "https://github.com/gazijarin/stonehenge",
-        open: ""
+          "Acted as liaison to 2nd place winner of the 2024 Nasha Raas/Garba/Bollywood Fusion Dance Competion.",
+        techStack: "Cross-Cultural Collaboration, Leadership",
+        open:
+          "https://www.youtube.com/watch?v=uUXod3Q74Sg"
       }
+      // "Odin Bot": {
+      //   desc:
+      //     "A Telegram bot that helps you excel on your daily tasks through Node NLP.",
+      //   techStack: "Javascript, Node.js, Natural NLP, Telegram API",
+      //   link: "https://github.com/gazijarin/OdinBot",
+      //   open: ""
+      // },
+      // "Game Centre": {
+      //   desc:
+      //     "An Android app consisting of three board games, including multiplayer, autosave, user authentication, etc.",
+      //   techStack: "Java, Android Studio",
+      //   link: "https://github.com/gazijarin/gamecentre",
+      //   open: ""
+      // },
+      // "Minimax Stonehenge": {
+      //   desc:
+      //     "Two-player, zero-sum game with a strategic Minimax artificial intelligence.",
+      //   techStack: "Python",
+      //   link: "https://github.com/gazijarin/stonehenge",
+      //   open: ""
+      // }
     };
 
     return (
